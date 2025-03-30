@@ -1,0 +1,134 @@
+@font-face {
+	font-family: "SVN-Basis Grotesque Pro";
+	src: url("./SVN-Tiempos/SVN-BasisGrotesquePro-Bold.woff2") format("woff2"),
+		url("./SVN-Tiempos/SVN-BasisGrotesquePro-Bold.woff") format("woff");
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "SVN-Basis Grotesque Pro";
+	src: url("./SVN-Tiempos/SVN-BasisGrotesquePro-Regular.woff2") format("woff2"),
+		url("./SVN-Tiempos/SVN-BasisGrotesquePro-Regular.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "SVN-Basis Grotesque Pro OW";
+	src: url("./SVN-Tiempos/SVN-BasisGrotesquePro-OffWhite.woff2") format("woff2"),
+		url("./SVN-Tiempos/SVN-BasisGrotesquePro-OffWhite.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "SVN-Basis Grotesque Pro Med";
+	src: url("./SVN-Tiempos/SVN-BasisGrotesquePro-Medium.woff2") format("woff2"),
+		url("./SVN-Tiempos/SVN-BasisGrotesquePro-Medium.woff") format("woff");
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "SVN-Tiempos Fine";
+	src: url("./SVN-Tiempos/SVN-TiemposFine-LightItalic.woff2") format("woff2"),
+		url("./SVN-Tiempos/SVN-TiemposFine-LightItalic.woff") format("woff");
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "SVN-Tiempos Fine";
+	src: url("./SVN-Tiempos/SVN-TiemposFine-Light.woff2") format("woff2"),
+		url("./SVN-Tiempos/SVN-TiemposFine-Light.woff") format("woff");
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "SVN-Tiempos Fine";
+	src: url("./SVN-Tiempos/SVN-TiemposFine-Regular.woff2") format("woff2"),
+		url("./SVN-Tiempos/SVN-TiemposFine-Regular.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "SVN-Tiempos Fine";
+	src: url("./SVN-Tiempos/SVN-TiemposFine-Medium.woff2") format("woff2"),
+		url("./SVN-Tiempos/SVN-TiemposFine-Medium.woff") format("woff");
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "SVN-Tiempos Headline";
+	src: url("./SVN-Tiempos/SVN-TiemposHeadline-LightItalic.woff2") format("woff2"),
+		url("./SVN-Tiempos/SVN-TiemposHeadline-LightItalic.woff") format("woff");
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "SVN-Tiempos Headline";
+	src: url("./SVN-Tiempos/SVN-TiemposHeadline-Regular.woff2") format("woff2"),
+		url("./SVN-Tiempos/SVN-TiemposHeadline-Regular.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "SVN-Tiempos Text";
+	src: url("./SVN-Tiempos/SVN-TiemposText-SemiBoldItalic.woff2") format("woff2"),
+		url("./SVN-Tiempos/SVN-TiemposText-SemiBoldItalic.woff") format("woff");
+	font-weight: 600;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "SVN-Tiempos Text";
+	src: url("./SVN-Tiempos/SVN-TiemposText-Regular.woff2") format("woff2"),
+		url("./SVN-Tiempos/SVN-TiemposText-Regular.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "SVN-Tiempos Text";
+	src: url("./SVN-Tiempos/SVN-TiemposText-Italic.woff2") format("woff2"),
+		url("./SVN-Tiempos/SVN-TiemposText-Italic.woff") format("woff");
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "SVN-Tiempos Headline";
+	src: url("./SVN-Tiempos/SVN-TiemposHeadline-RegularItalic.woff2") format("woff2"),
+		url("./SVN-Tiempos/SVN-TiemposHeadline-RegularItalic.woff") format("woff");
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "SVN-Tiempos Text";
+	src: url("./SVN-Tiempos/SVN-TiemposText-SemiBold.woff2") format("woff2"),
+		url("./SVN-Tiempos/SVN-TiemposText-SemiBold.woff") format("woff");
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
